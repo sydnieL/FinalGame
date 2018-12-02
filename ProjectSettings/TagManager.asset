@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cow
+  - Beam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cow
+  - Beam
+  - UFO
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3168481769
+    locked: 0
+  - name: Ground
+    uniqueID: 774306963
+    locked: 0
+  - name: Cow
+    uniqueID: 3286521241
+    locked: 0
+  - name: Beam
+    uniqueID: 3505041747
+    locked: 0
+  - name: UFO
+    uniqueID: 1897572981
+    locked: 0
